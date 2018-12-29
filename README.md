@@ -42,7 +42,7 @@ iBank现已登陆多款主流EOS移动钱包 (TokenPocket, MathWallet, MEET.ONE,
 
 iBank由国内顶级的DApp开发团队DappPub研发推出，作为行业领导者，iBank已与多个EOS节点（EOS CANNON, BlockGo, EOS ASIA）及EOS钱包（Oracle Chain, Token Pocket, Math Wallet）达成『多签合作伙伴』关系。iBank募集到的EOS都实时存放在iBank的仓库合约（[bankreserves](https://eosq.app/account/bankreserves)）中，并由DappPub与多签合作伙伴共同对合约进行多重签名操作以提供安全审核来保障客户资产的绝对安全。对该资金池账户的任何操作都需要其他多签伙伴一起确认才可以触发，这就保证了该合约中存储资金不受单独任意一方控制。
 
-![image-20181228193559320](/Users/chen/Library/Application%20Support/typora-user-images/image-20181228193559320.png)
+![image-20181228193559320](https://i.loli.net/2018/12/29/5c273f5101abb.png)
 
 ------
 
